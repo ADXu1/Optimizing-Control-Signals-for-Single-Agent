@@ -6,7 +6,7 @@ This repository contains the implementation of a novel control signal optimizati
 ## 👇👇👇Click on the image to play the video on YouTube.⬇️⬇️⬇️⬇️⬇️⬇️
 [![Bezier Curve Optimization for Autonomous Vehicle Control](image5.png)](https://youtu.be/3Gh3RCR1B3Y?si=ovzhLek9PLTm9RIY)
 ## Overview
-[(image4.png)]
+<img src="image4.png" alt="" width="800"/>
 The core idea is to apply Bezier curves to the generation of control signals, such as throttle and steering, for autonomous vehicles. By optimizing the shape of the Bezier curves, smooth and continuous control signals can be obtained, resulting in precise trajectory tracking and stable vehicle behavior.
 
 Key features of this approach include:
@@ -20,12 +20,12 @@ Key features of this approach include:
 Extensive experiments were conducted on the Donkey Car platform, a 1:16 scale autonomous vehicle, in three typical scenarios: left lane driving with obstacle avoidance, straight-line driving, and straight driving with continuous obstacle avoidance. The proposed method demonstrated significant improvements compared to baseline methods:
 
 - Trajectory tracking accuracy (RMSE) improved by up to 19.6%.
-[(image1.png)]
+<img src="image1.png" alt="" width="800"/>
 - Throttle change rate standard deviation decreased by 28.6%.
 - Steering angular velocity standard deviation reduced by 24.5%.
-[(image3.png)]
+<img src="image3.png" alt="" width="800"/>
 - Vehicle yaw rate and pitch rate RMS values decreased by 7.9%.
- [(image2.png)]
+<img src="image2.png" alt="" width="800"/>
 
 ## Installation
 

@@ -19,11 +19,12 @@ Key features of this approach include:
 Extensive experiments were conducted on the Donkey Car platform, a 1:16 scale autonomous vehicle, in three typical scenarios: left lane driving with obstacle avoidance, straight-line driving, and straight driving with continuous obstacle avoidance. The proposed method demonstrated significant improvements compared to baseline methods:
 
 - Trajectory tracking accuracy (RMSE) improved by up to 19.6%.
+![](Fig/image1.png)
 - Throttle change rate standard deviation decreased by 28.6%.
 - Steering angular velocity standard deviation reduced by 24.5%.
 - Vehicle yaw rate and pitch rate RMS values decreased by 7.9%.
 
-![Trajectory Tracking Comparison](Fig/Figure6.png)
+
 
 _Figure: Comparison of trajectory tracking effects before and after optimization in the scenario of straight driving with continuous obstacle avoidance._
 

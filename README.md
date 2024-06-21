@@ -1,5 +1,3 @@
-Sure, here's a suggested Readme for the GitHub repository based on the provided paper:
-
 # Bezier Curve Optimization for Autonomous Vehicle Control
 
 This repository contains the implementation of a novel control signal optimization method for autonomous vehicles based on Bezier curves. The proposed approach enhances trajectory tracking accuracy, control signal smoothness, and vehicle posture stability, leading to improved overall performance in autonomous driving systems.

@@ -4,9 +4,9 @@ Sure, here's a suggested Readme for the GitHub repository based on the provided 
 
 This repository contains the implementation of a novel control signal optimization method for autonomous vehicles based on Bezier curves. The proposed approach enhances trajectory tracking accuracy, control signal smoothness, and vehicle posture stability, leading to improved overall performance in autonomous driving systems.
 ## 👇👇👇Click on the image to play the video on YouTube.⬇️⬇️⬇️⬇️⬇️⬇️
-[![Comparison of Model Inference Effectiveness of Donkeycar PrediNet20 and Linear Models](image4.png)](https://youtu.be/3Gh3RCR1B3Y?si=ovzhLek9PLTm9RIY)
+[![Bezier Curve Optimization for Autonomous Vehicle Control](image5.png)](https://youtu.be/3Gh3RCR1B3Y?si=ovzhLek9PLTm9RIY)
 ## Overview
-
+[(image4.png)]
 The core idea is to apply Bezier curves to the generation of control signals, such as throttle and steering, for autonomous vehicles. By optimizing the shape of the Bezier curves, smooth and continuous control signals can be obtained, resulting in precise trajectory tracking and stable vehicle behavior.
 
 Key features of this approach include:
@@ -20,10 +20,12 @@ Key features of this approach include:
 Extensive experiments were conducted on the Donkey Car platform, a 1:16 scale autonomous vehicle, in three typical scenarios: left lane driving with obstacle avoidance, straight-line driving, and straight driving with continuous obstacle avoidance. The proposed method demonstrated significant improvements compared to baseline methods:
 
 - Trajectory tracking accuracy (RMSE) improved by up to 19.6%.
-![1](Fig/image1.png)
+[(image1.png)]
 - Throttle change rate standard deviation decreased by 28.6%.
 - Steering angular velocity standard deviation reduced by 24.5%.
+[(image3.png)]
 - Vehicle yaw rate and pitch rate RMS values decreased by 7.9%.
+ [(image2.png)]
 
 ## Installation
 
